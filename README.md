@@ -1,5 +1,6 @@
 # Anagrams Statistisk sentralbyrå 
 Shows a list of all anagrams from a file
+This project is created with react create project so it will be some libraries that are not in use.
  ## Prerequisites
  * npm v6 or greater
  
